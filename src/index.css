@@ -614,7 +614,7 @@ img {
 
 /* Sections */
 .section-block {
-  padding: clamp(92px, 12vw, 176px) 0;
+
   border-bottom: 1px solid var(--grid);
 }
 

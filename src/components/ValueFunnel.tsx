@@ -10,8 +10,14 @@ export default function ValueFunnel() {
 
   return (
     <section className="section-block funnel-section" id="funnel" data-testid="value-funnel-section">
+      <div>
+        <video width="100%" height="100%" autoPlay loop muted playsInline>
+          <source src="/Comp 1.mp4" type="video/mp4" />
+        </video>
+      </div>
       <div className="section-wrap">
         <Reveal className="section-heading">
+
           <div>
             <p className="section-eyebrow">01 / The value funnel</p>
             <h2>One lens. Four disciplines. Better systems.</h2>
